@@ -19,5 +19,29 @@
         height: 500px;
         padding-top: 100px;
     }
+    .carousel-inner img{
+        width: 100%;
+        height: 500px !important;
+    }
+    .custom-product{
+        height: 600px;
+    }
+    .carousel-caption{
+        background-color: #35443585;
+    }
+    .trending-image{
+        height: 180px;
+        padding-bottom: 5px;
+    }
+    .trending-item{
+        float: left;
+        width: 20%;
+    }
+    .trending-wrapper{
+        /* margin: 30px; */
+    }
+    .detail-image{
+        height: 400px;
+    }
 </style>
 </html>
